@@ -1,0 +1,7 @@
+With this package you can create dummy text. Use \blindtext to get
+some text and \Blindtext to get a long text. With \blinddocument (or
+\Blinddocument) you get complete dummy documents.
+Details can be found at http://tex.lickert.net/packages/blindtext/
+index_en.html. This File describes version V2.0.
+Mit diesem Paket kann man lange Texte erzeugen, ohne lange Texte einzugeben. Sinn ist die Erzeugung langer Beispieltexte, ohne den Quelltext lang
+zu machen.

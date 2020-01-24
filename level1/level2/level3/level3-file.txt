@@ -1,0 +1,11 @@
+46 \newif\ifblind@long\blind@longfalse
+47 \newif\ifblind@optional\blind@optionalfalse
+48 \newcounter{blindlist}
+49 \newcounter{blindlistlevel}% Up tu X level
+50 \newcounter{blindlist@level}% internal counter
+51 \newcount\blind@listitem
+\blindlist
+\blind@listtype
+\blindlist{env}[x] writes an env-list with x items. The default is stored in the
+counter blindlist. This value can be changed with \setcounter{blindlist}{1}.
+The type of list is stored in \blind@listtype.
