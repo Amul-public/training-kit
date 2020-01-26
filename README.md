@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/github/training-kit.svg?branch=master)](https://travis-ci.org/github/training-kit)
 
 # GitHub Training Kit: Cheatsheets
+stash with branch example
 
 ## We :heart: Contributors Like You!
 

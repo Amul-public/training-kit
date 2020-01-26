@@ -22,3 +22,4 @@ Deploy to dev
 before master issues rebase
 This is stashing example
 This is third comment from stashing example
+stash with branch
