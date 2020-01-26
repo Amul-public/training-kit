@@ -5,6 +5,7 @@ This is a sample project
 Plan the development
 
 ## Develop
+Develop whatever is planned
 
 ## Test
 
