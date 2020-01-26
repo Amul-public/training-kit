@@ -1,5 +1,6 @@
 #Copyright protected
 Author Amul amul1503@gmail.com
+Adding conflicting change from master branch
 
 #Training Kit project
 This is a sample project
