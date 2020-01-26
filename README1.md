@@ -2,6 +2,7 @@
 This is a sample project
 
 ## Plan
+Plan the development
 
 ## Develop
 
