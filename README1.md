@@ -8,5 +8,7 @@ Plan the development
 Develop whatever is planned
 
 ## Test
+Test programmes
 
 ## Deploy
+Deploy to dev
