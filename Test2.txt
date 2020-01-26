@@ -2,6 +2,8 @@
 
 Author
 Amol amul1503@gmail.com 
+Adding one more author
+Aakash aakash@456.com
 
 aeiyaeytiaeojt
 srogjstjlsrtlhslr;hosrj skjhgseg  akwfguhaefkh	 SFSHGD
@@ -11,3 +13,4 @@ XJKHDHDKFN
 auiyiuehterhi
 
 This is A test change.
+This is a conflicting change added from master branch
