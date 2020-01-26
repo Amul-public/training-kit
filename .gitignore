@@ -1,4 +1,6 @@
 _site/
+*.log
+log/
 .DS_Store
 /.rbenv-version
 /vendor/
