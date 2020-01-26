@@ -1,6 +1,6 @@
 #Copyright protected
 Author Amul amul1503@gmail.com
-Adding conflicting change from master branch
+This is a conflicting change added from RealWork1 branch
 
 #Training Kit project
 This is a sample project
