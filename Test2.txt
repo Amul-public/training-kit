@@ -22,3 +22,4 @@ before rebasing with origin/master
 
 This is a stashing example
 This is second commit from stashing example
+This is third comment from stashing example
