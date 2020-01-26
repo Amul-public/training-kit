@@ -17,3 +17,5 @@ This is a conflicting change added from master branch
 
 Adding comment from MyFeature branch for rebase
 Adding another comment for rebase
+
+before rebasing with origin/master
