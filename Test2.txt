@@ -1,5 +1,5 @@
 @Copyright protected
-Adding changes from master branch before rebasing conflicts
+conflics brewing
 
 Author
 Amol amul1503@gmail.com 
