@@ -19,3 +19,6 @@ Adding comment from MyFeature branch for rebase
 Adding another comment for rebase
 
 before rebasing with origin/master
+
+This is a stashing example
+This is second commit from stashing example
